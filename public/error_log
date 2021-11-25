@@ -1,0 +1,2 @@
+[25-Sep-2019 10:12:57 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/mydaata/public_html/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 8
+[25-Sep-2019 10:12:57 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/mydaata/public_html/vendor/zendframework/zend-diactoros/src/functions/create_uploaded_file.php on line 19
